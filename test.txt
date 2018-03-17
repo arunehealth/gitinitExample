@@ -1,0 +1,6 @@
+Healthcare for Humanity
+We currently have under our umbrella the following projects:
+LibreHealth Toolkit, a foundational base for building Health IT tools
+LibreHealth EHR, an electronic health record derived from best practices and technology from leading open source systems
+LibreHealth Radiology, a specialized distribution of LibreHealth Toolkit customized for radiology health care professionals
+Our GSoC student projects will address real-life needs of our projects to help improve delivery of health care around the world. We have a team of expert mentors with decades of experience to help you in your work. They will be continually adding project ideas to our forum at 
